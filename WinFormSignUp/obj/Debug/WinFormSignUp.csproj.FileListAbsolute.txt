@@ -1,0 +1,10 @@
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.csproj.AssemblyReference.cache
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.Properties.Resources.resources
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.SignUp.resources
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.csproj.GenerateResource.cache
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.csproj.CoreCompileInputs.cache
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\bin\Debug\WinFormSignUp.exe.config
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\bin\Debug\WinFormSignUp.exe
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\bin\Debug\WinFormSignUp.pdb
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.exe
+E:\jb\dotnet\WinFormSignUp\WinFormSignUp\obj\Debug\WinFormSignUp.pdb
